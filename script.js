@@ -24,7 +24,7 @@ request.onload = function (){
                      
 
    // d)Print the total population of countries using reduce function
-         //let population = result.reduce((acc,ele)=> {return acc+ele.population})
+         //let population = result.reduce((acc,ele)=> {return acc+ele.population},0)
          //console.log(population)}
 
     // e) Print the country which uses US Dollars as currency.
